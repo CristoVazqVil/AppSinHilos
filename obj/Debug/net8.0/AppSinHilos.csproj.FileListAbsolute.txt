@@ -12,3 +12,4 @@ D:\codigo\dsr\AppSinHilos\obj\Debug\net8.0\refint\AppSinHilos.dll
 D:\codigo\dsr\AppSinHilos\obj\Debug\net8.0\AppSinHilos.pdb
 D:\codigo\dsr\AppSinHilos\obj\Debug\net8.0\AppSinHilos.genruntimeconfig.cache
 D:\codigo\dsr\AppSinHilos\obj\Debug\net8.0\ref\AppSinHilos.dll
+D:\codigo\dsr\AppSinHilos\obj\Debug\net8.0\AppSinHilos.sourcelink.json

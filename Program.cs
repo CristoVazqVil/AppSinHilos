@@ -20,8 +20,10 @@ class Program
     public static void DoAlgo()
     {
         Console.WriteLine("DoAlgo: Hey! Haciendo algo aquí");
+
         for (int i = 0; i < 20; i++)
             Console.Write($"{i}" );
+            
         Console.WriteLine();
         Console.WriteLine("DoAlgo: Ya terminé");
     }
